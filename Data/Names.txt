@@ -1,0 +1,20 @@
+Data Science
+Artificial Intelligence
+Big Data
+Azure
+Visual Studio Code
+Neural Network
+Pandas 
+NumPy
+SciPy
+TensorFlow
+Keras
+StatsModel
+Matplotlib
+Plotly
+Seaborn
+Python
+Anaconda
+Mini Conda
+Machine Learning
+Deep Learning
